@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+}
+
+.list-group {
+  width: 100%;
+}
+
+.store-list {
+  margin: 1px 0px;
+}
+
+.stor-name {
+  font-size: 30px;
+  padding: 0 30px;
+}
+
+.button-order {
+  margin: 0 30px;
+}
+.dropdown {
+  margin: 25px;
+}
+
+.order0 {
+  width: 50%;
+  margin: auto;
+}
+
+.order {
+  margin: 30px;
+  font-weight: bold;
+  font-size: 16px;
+  border: 2px solid #445162;
+  border-radius: 5px;
+  height: 180px;
+  width: 100%;
+  font-family: Arial;
+  text-align: center;
+}
+
+.noOrder {
+  margin: 30px;
+  font-weight: bold;
+  font-size: 45px;
+  border: 2px solid #445162;
+  border-radius: 5px;
+  height: 160px;
+  width: 100%;
+  font-family: Arial;
+  text-align: center;
+}
+
+.willWorkLater {
+  margin: 30px;
+  font-weight: bold;
+  font-size: 25px;
+  border: 2px solid #445162;
+  border-radius: 5px;
+  height: 160px;
+  width: 100%;
+  font-family: Arial;
+  text-align: center;
+}
